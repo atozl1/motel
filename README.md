@@ -1,1 +1,1 @@
-# motel
+Kendim Türkçeleştirdiğim Bir Motel Sistemidir
